@@ -1,2 +1,4 @@
 console.log("is this thing on")
-alert("hello")
+import {addAbout} from "./home.js";
+
+addAbout()
