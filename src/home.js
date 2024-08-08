@@ -1,5 +1,6 @@
 function addAbout() {
     const content = document.getElementById("content")
+    content.innerText = ''
     const title = document.createElement('h1')
     const about = document.createElement('div')
 
